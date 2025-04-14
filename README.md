@@ -25,4 +25,4 @@ A chatbot application that combines ChatterBot and OpenAI GPT-3.5 capabilities.
 
 ## Usage
 - Type your messages in the chat interface
-- Press Ctrl+C to exit the application 
+- Press Ctrl+C to exit the application # Cocktail-Chatbot
