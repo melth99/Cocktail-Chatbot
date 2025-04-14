@@ -1,0 +1,3 @@
+openai
+chatterbot
+chatterbot-corpus 
